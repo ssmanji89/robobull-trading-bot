@@ -26,3 +26,4 @@ lambda.zip
 
 package-lock.json
 npm-debug.log
+.env-example
